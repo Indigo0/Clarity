@@ -4,16 +4,19 @@ AccentColour=49, 173, 105
 
 -DO NOT EDIT THESE VARIABLES UNLESS YOU KNOW WHAT THEY DO-
 1x=20
-1y=10
 
 2x=80
-2y=10
 
 3x=140
-3y=10
 
 4x=200
-4y=10
 
 5x=260
-5y=10
+
+6x=320
+
+7x=380
+
+8x=440
+
+y=10
