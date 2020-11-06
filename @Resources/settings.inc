@@ -1,3 +1,7 @@
 [Variables]
 MainColour=30, 32, 36
 AccentColour=132, 232, 190
+
+-DO NOT EDIT THESE VARIABLES UNLESS YOU KNOW WHAT THEY DO-
+1x=20
+1y=10
